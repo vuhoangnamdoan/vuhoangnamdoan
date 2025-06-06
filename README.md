@@ -1,14 +1,10 @@
-### Vu Hoang Nam Doan, Burwood VIC.
+## Vu Hoang Nam Doan, Burwood VIC.
 
 <a href="https://github.com/vuhoangnamdoan"><img src="https://komarev.com/ghpvc/?username=vuhoangnamdoan&color=brightgreen" alt="vuhoangnamdoan" /></a>
 <a href="https://github.com/vuhoangnamdoan?tab=followers"><img src="https://img.shields.io/github/followers/vuhoangnamdoan"></a>
 <a href="mailto:vuhoangnamdoan1605@gmail.com"><img src="https://img.shields.io/badge/Email-vuhoangnamdoan@gmail.com-brightgreen" alt="Email" /></a>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuhoangnamdoan&layout=compact" />
-</div>
-
-### Background
+## Background
 
 Hi there 👋
 - 😁 My name is Vu Hoang Nam Doan.
